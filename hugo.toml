@@ -6,33 +6,31 @@ defaultContentLanguage = "fr"
 
 [params]
     author = "Aymeric Touche"
+    info = "Lead Dev & Solution Architect chez RCF"
     description = "Lead Developer Fullstack & Solution Architect"
-    info = "Lead Dev & Solution Architect chez RCF | Expert Nuxt 3 & AWS | 460k sessions/mois"
-    avatarURL = "images/avatar.jpg" # À placer dans static/images/
     footercontent = "Propulsé par Hugo & Cloudflare Pages"
     colorScheme = "light"
 
-    # Liens sociaux
-    [[params.social]]
-        name = "Github"
-        icon = "fa fa-github"
-        weight = 1
-        url = "https://github.com/votre-compte"
     [[params.social]]
         name = "LinkedIn"
         icon = "fa fa-linkedin"
         weight = 2
-        url = "https://www.linkedin.com/in/votre-profil"
+        target = '_blank'
+        url = "https://www.linkedin.com/in/aymeric-touche-b7015617b/"
 
 [[menu.main]]
     name = "Expériences"
     weight = 1
     url = "posts/experience-rcf"
 [[menu.main]]
-    name = "Bénévolat"
+    name = "Stack"
     weight = 2
+    url = "posts/tech"
+[[menu.main]]
+    name = "Bénévolat"
+    weight = 3
     url = "posts/benevolat"
 [[menu.main]]
     name = "Formation"
-    weight = 3
+    weight = 4
     url = "posts/education"
