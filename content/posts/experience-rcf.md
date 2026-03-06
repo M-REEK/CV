@@ -23,7 +23,7 @@ Conception et maintenance d'un middleware serverless assurant la liaison entre d
 * **Flux de données :** Exposition des endpoints via **API Gateway**, logique métier traitée par **AWS Lambda** (Producer / Worker).
 * **Résilience & Découplage :** Utilisation de files d'attente **AWS SQS** pour l'ingestion asynchrone des données. Ce choix technique garantit la persistance des données et l'absorption des pics de charge lors des campagnes nationales de dons, sans impacter les temps de réponse.
 * **Sécurité & État :** Sécurisation de données sensible via **Secrets Manager**, prévention des doublons grâce à **DynamoDB**.
-* **Infrastructure: **Supervision et mises à jour des enregistrements DNS (zones, alias, entrées TXT) pour l'ensemble du parc de domaines chez **OVH**.. Supervision des serveurs de recette avec configuration nginx, mise en place des certificats de sécurité et administration de base de données.
+* **Infrastructure:** Supervision et mises à jour des enregistrements DNS (zones, alias, entrées TXT) pour l'ensemble du parc de domaines chez **OVH**.. Supervision des serveurs de recette avec configuration nginx, mise en place des certificats de sécurité et administration de base de données.
 
 ---
 
