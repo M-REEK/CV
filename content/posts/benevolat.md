@@ -7,7 +7,8 @@ organization: "Scouts et Guides de France"
 ## Engagement Associatif & Bénévolat
 
 ### Scouts et Guides de France (Engagement de 5 ans)
-* **Direction d'ACM (Accueils Collectifs de Mineurs) :** Direction de **4 camps scouts**. Responsable de la sécurité physique et morale des mineurs, de l'application du projet pédagogique et de la gestion administrative, et du fun parce que ça reste des vacances pour tout le monde !
+* **Formateur BAFA** : Lors de 4 sessions de une semaine, j'ai pu réaliser seul et en équipe des ateliers, des animations, des temps d'échanges afin de former les jeunes chefs scout au BAFA et plus particulièrement aider les futurs directeurs de camps dans leur prise de fonction.
+* **Direction d'ACM (Accueils Collectifs de Mineurs) : **Direction de 4 camps scouts**. Responsable de la sécurité physique et morale des mineurs, de l'application du projet pédagogique de la gestion administrative, et du fun parce que ça reste des vacances pour tout le monde !
 * **Management humain :** Encadrement et coordination d'équipes de **4 à 7 animateurs**.
 * **Solidarité Internationale (Haïti, 2012) :** Conception et réalisation d'un projet de solidarité internationale d'un mois à Hinche, en partenariat avec les Scouts Haïtiens. Gestion de la logistique, du budget et des relations interculturelles.
 
